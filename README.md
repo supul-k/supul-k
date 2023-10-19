@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supul-k&label=Profile%20views&color=0e75b6&style=flat" alt="supul-k" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,Spring boot**
+- 🌱 I’m currently learning **.net framework,Spring boot**
 
-- 💬 Ask me about **Laravel , PHP**
+- 💬 Ask me about **ReactJs, NodeJs, Laravel , PHP**
 
 - 📫 How to reach me **supulkalhara7@gmail.com**
 
