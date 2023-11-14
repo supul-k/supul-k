@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+  <img height="150" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Supul Kalhara</h1>
