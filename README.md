@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supul-k&label=Profile%20views&color=0e75b6&style=flat" alt="supul-k" /> </p>
 
-- 🌱 I’m currently learning **.net framework,Spring boot**
+- 🌱 I’m currently learning **Machine Learning and Digital Image Processing**
 
-- 💬 Ask me about **ReactJs, NodeJs, Laravel , PHP**
+- 💬 Ask me about **ASP.NET Core,ReactJs, NodeJs, Laravel , PHP**
 
 - 📫 How to reach me **supulkalhara7@gmail.com**
 
